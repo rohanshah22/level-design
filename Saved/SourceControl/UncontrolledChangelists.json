@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/rohanshah/Desktop/Level-Design/level-design/Content/Blueprints/BP_HealthPack.uasset",
+				"/Users/rohanshah/Desktop/Level-Design/level-design/Content/Blueprints/BP_MortarAI.uasset",
+				"/Users/rohanshah/Desktop/Level-Design/level-design/Content/Blueprints/BP_Obstacle.uasset",
 				"/Users/rohanshah/Desktop/cs415_mp2-main/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
 				"/Users/rohanshah/Desktop/cs415_mp2-main/Content/Blueprints/BP_Obstacle.uasset",
 				"/Users/rohanshah/Desktop/cs415_mp2-main/Content/UI/HealthWidget.uasset",
